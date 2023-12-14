@@ -3,18 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=1&pause=9999&color=F975FF&center=true&vCenter=true&random=false&width=1000&lines=Isabela+Oliveira)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=1&pause=9999&color=DFCEFF&center=true&vCenter=true&random=false&width=1000&lines=Entry+Level+Full-Stack+Developer+%2F+QA+Software+Testing+Analyst)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xsbela&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xsbela&bg_color=0d1117&color=ec9ce7&line=f0a3eb&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xsbela&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsbela&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
 
 ### Main skills:
 <div align="center" dir="auto"> 
@@ -54,12 +42,18 @@
 </div>
 </div>
 
-<div align="center" dir="auto"> 
-  <div dir="auto"><br>
-  <a href="https://count.getloli.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/315bdaa76b5901389ef76c7857dcd4b059b61abfc486c655f55373325f70c7ed/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a6974676f796f" data-canonical-src="https://count.getloli.com/get/@:xsbela" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d7b6afb15769aaa8d8ce89e969f16a6d612aeff4a4fde3e93163898b4b0079dd/68747470733a2f2f776561746865722d69636f6e2e6a6f75726e657961642e7265706c2e636f2f407368656e7a68656e3f763d31"><img src="https://camo.githubusercontent.com/d7b6afb15769aaa8d8ce89e969f16a6d612aeff4a4fde3e93163898b4b0079dd/68747470733a2f2f776561746865722d69636f6e2e6a6f75726e657961642e7265706c2e636f2f407368656e7a68656e3f763d31" align="right" data-canonical-src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" style="max-width: 100%;"></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xsbela&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xsbela&bg_color=0d1117&color=ec9ce7&line=f0a3eb&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xsbela&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsbela&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F975FFFF&height=120&section=footer"/>
