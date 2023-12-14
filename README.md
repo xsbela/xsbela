@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F975FFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=1&pause=9999&color=F975FF&center=true&vCenter=true&random=false&width=1000&lines=Isabela+Oliveira)](https://git.io/typing-svg)
 
