@@ -58,7 +58,7 @@
   <div dir="auto"><br>
     
 <p dir="auto">
-  <a href="https://count.getloli.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/315bdaa76b5901389ef76c7857dcd4b059b61abfc486c655f55373325f70c7ed/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a6974676f796f" data-canonical-src="https://count.getloli.com/get/@:xsbela?theme=moebooru" style="max-width: 100%;"></a>
+  <a href="https://count.getloli.com/" rel="nofollow"><img src="" data-canonical-src="https://count.getloli.com/get/@:xsbela?theme=moebooru" style="max-width: 100%;"></a>
 </p>
 </div>
 </div>
