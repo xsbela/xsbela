@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&center=true&vCenter=true&&duration=1&pause=9999&color=F975FF&random=false&width=435&lines=My+name+is+Isabela+Oliveira)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Barbosa;I'm+27+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&pause=9999&color=F975FF&random=false&width=435&lines=My+name+is+Isabela+Oliveira+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xsbela&bg_color=0d1117&color=ec9ce7&line=f0a3eb&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
