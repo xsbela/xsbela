@@ -56,12 +56,6 @@
 
 <div align="center" dir="auto"> 
   <div dir="auto"><br>
-    
-<p dir="auto">
-  <a href="https://count.getloli.com/" rel="nofollow"><img src="" data-canonical-src="https://count.getloli.com/get/@:xsbela?theme=moebooru" style="max-width: 100%;"></a>
-</p>
-</div>
-</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F975FFFF&height=120&section=footer"/>
