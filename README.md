@@ -53,6 +53,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsbela&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<div align="center" dir="auto"> 
+  <div dir="auto"><br>
+    
+<p dir="auto">
+  <a href="https://count.getloli.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/315bdaa76b5901389ef76c7857dcd4b059b61abfc486c655f55373325f70c7ed/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a6974676f796f" data-canonical-src="https://count.getloli.com/get/@:itgoyo" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d7b6afb15769aaa8d8ce89e969f16a6d612aeff4a4fde3e93163898b4b0079dd/68747470733a2f2f776561746865722d69636f6e2e6a6f75726e657961642e7265706c2e636f2f407368656e7a68656e3f763d31"><img src="https://camo.githubusercontent.com/d7b6afb15769aaa8d8ce89e969f16a6d612aeff4a4fde3e93163898b4b0079dd/68747470733a2f2f776561746865722d69636f6e2e6a6f75726e657961642e7265706c2e636f2f407368656e7a68656e3f763d31" align="right" data-canonical-src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" style="max-width: 100%;"></a>
+</p>
+</div>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F975FFFF&height=120&section=footer"/>
