@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F975FFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=1&pause=9999&color=F975FF&center=true&vCenter=true&random=false&width=1000&lines=Isabela+Oliveira)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&duration=1&pause=9999&color=DFCEFF&center=true&vCenter=true&random=false&width=1000&lines=Entry+Level+Full-Stack+Developer+%2F+QA+Software+Testing+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=1&pause=9999&color=DFCEFF&center=true&vCenter=true&random=false&width=1000&lines=Entry+Level+Full-Stack+Developer+%2F+QA+Software+Testing+Analyst)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xsbela&bg_color=0d1117&color=ec9ce7&line=f0a3eb&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
